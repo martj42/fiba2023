@@ -25,7 +25,7 @@ div.main-container {
 }
 
 body {
-  color: #1e036e;
+  color: #0010bb;
     background-image: url('background.png');
   background-repeat: no-repeat;
      background-attachment: fixed;
@@ -34,7 +34,7 @@ body {
 }
 
 .rt-thead {
-  background-color: #1e036e !important;
+  background-color: #0010bb !important;
   color: white;
 }
 
